@@ -1,0 +1,13 @@
+C:\Users\eleme\source\repos\CodingChallenge1\bin\Debug\netcoreapp3.1\CodingChallenge1.exe
+C:\Users\eleme\source\repos\CodingChallenge1\bin\Debug\netcoreapp3.1\CodingChallenge1.deps.json
+C:\Users\eleme\source\repos\CodingChallenge1\bin\Debug\netcoreapp3.1\CodingChallenge1.runtimeconfig.json
+C:\Users\eleme\source\repos\CodingChallenge1\bin\Debug\netcoreapp3.1\CodingChallenge1.runtimeconfig.dev.json
+C:\Users\eleme\source\repos\CodingChallenge1\bin\Debug\netcoreapp3.1\CodingChallenge1.dll
+C:\Users\eleme\source\repos\CodingChallenge1\bin\Debug\netcoreapp3.1\CodingChallenge1.pdb
+C:\Users\eleme\source\repos\CodingChallenge1\obj\Debug\netcoreapp3.1\CodingChallenge1.csprojAssemblyReference.cache
+C:\Users\eleme\source\repos\CodingChallenge1\obj\Debug\netcoreapp3.1\CodingChallenge1.AssemblyInfoInputs.cache
+C:\Users\eleme\source\repos\CodingChallenge1\obj\Debug\netcoreapp3.1\CodingChallenge1.AssemblyInfo.cs
+C:\Users\eleme\source\repos\CodingChallenge1\obj\Debug\netcoreapp3.1\CodingChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\eleme\source\repos\CodingChallenge1\obj\Debug\netcoreapp3.1\CodingChallenge1.dll
+C:\Users\eleme\source\repos\CodingChallenge1\obj\Debug\netcoreapp3.1\CodingChallenge1.pdb
+C:\Users\eleme\source\repos\CodingChallenge1\obj\Debug\netcoreapp3.1\CodingChallenge1.genruntimeconfig.cache
